@@ -1,0 +1,16 @@
+/ConLimitFilter.class
+/CookieCutter.class
+/ErrorResponseFilter$WrappedResponse.class
+/ErrorResponseFilter.class
+/GetResource.class
+/HelloClient.class
+/LinkResponseFilter$LinkWriter.class
+/LinkResponseFilter$WrappedResponse.class
+/LinkResponseFilter.class
+/RequestDefaultsFilter$WrappedRequest.class
+/RequestDefaultsFilter.class
+/ShoppingCart.class
+/ShowParameters.class
+/ShowSession.class
+/TestFilter.class
+/WaitServlet.class
